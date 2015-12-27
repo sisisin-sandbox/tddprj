@@ -1,5 +1,5 @@
 # Usage
-## C\#
+## C Sharp
 * Open .sln file by Visual Studio
 * Press Ctrl+R,A to run tests
 
